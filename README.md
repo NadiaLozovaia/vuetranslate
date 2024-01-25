@@ -1,4 +1,5 @@
-A test project to identify errors when passing tests using vitest.
+A test project to identify errors when passing tests using vitest. 
+You can check the ForTest component and run tests. Uncomment useRouter() and run tests again, an error will be "TypeError: $setup.translate is not a function".
 
 ### Project Setup
 
